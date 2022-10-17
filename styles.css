@@ -6,22 +6,27 @@
     font-style: normal;
     font-weight: normal;
     line-height: 18px;
+ 
 }
 
 body{
-    background-color: #e5e5e5;
+    background-color: #242323;
+
+    
 }
 
 .container{
     width: 375px;
     background-color: #f4f4f4;
     margin: 0 auto;
-    margin-top: 100px;
+    margin-top: 3%;
+
 }
 
 header{
-    background-color: #1b83e2;
+    background-color: #141618;
     height: 66px;
+
 }
 
 h1{
@@ -70,7 +75,7 @@ input{
 }
 
 button{
-    background-color: #1b83e2;
+    background-color:#141618;
     border-radius: 25px;
     height: 48px;
     cursor: pointer;
@@ -92,7 +97,7 @@ button:active{
 }
 
 section{
-    border:  1px solid #1b83e2;
+    border:  1px solid #141618;
     border-radius: 4px;
 }
 .currency-container{
@@ -105,7 +110,7 @@ section{
 }
 
 .currency-value{
-    color: #1b83e2;
+    color: #141618;
     font-weight: bold;
     font-size: 20px;
 }
